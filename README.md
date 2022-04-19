@@ -1,2 +1,2 @@
-# LAB_LinearRegression_gapminder
-Laboratorio
+# Laboratorio
+Pronostico de la resistencia del concreto usando redes neuronales
